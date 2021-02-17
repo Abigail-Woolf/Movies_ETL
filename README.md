@@ -4,6 +4,11 @@ Extract, Transform, Load
 ## Project Overview
 This repository explores the process of extracting, transforming, and loading data. The ETL process is standard when working with large datasets. It helps the programmer utilize the tools they were given in the most effiecient and timely way possible. For this project, I created an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. Also, adding try-except blocks will make the automated ETL script more robust to errors.
 
+## File Contents
+| Folder | Contents |
+|--------|----------|
+| Resources | Raw kaggle data and Wiki JSON |
+| Final_ETL | Final notebook and script for automated ETL |
 
 
 Create an automated ETL pipeline.
